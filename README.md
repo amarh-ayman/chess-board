@@ -2,8 +2,4 @@
 
 ## The Lab PR
 
->
-
-## The Strech Goal
-
->
+> https://github.com/amarh-ayman/chess-board/pull/1
